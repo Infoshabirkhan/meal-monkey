@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "601070830675",
+    "project_id": "monkeymeal-43b5e",
+    "storage_bucket": "monkeymeal-43b5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601070830675:android:c2cf8b1b6037d44058f2a6",
+        "android_client_info": {
+          "package_name": "com.example.meal_monkey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601070830675-vfft97bsfq3upbfltt679q080gs87j57.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8Dia6v4xdG2sUaPszn1Y_pX2-ReskiJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601070830675-vfft97bsfq3upbfltt679q080gs87j57.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
